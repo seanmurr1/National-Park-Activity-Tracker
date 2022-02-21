@@ -1,9 +1,0 @@
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Start test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri is successful.
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: End test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Start test API Tests:0:API Library Function Tests:7:Social: Search Tweets.
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Test API Tests:0:API Library Function Tests:7:Social: Search Tweets is successful.
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: End test API Tests:0:API Library Function Tests:7:Social: Search Tweets.
-2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Start test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
-2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#01 I: Test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB is successful.
-2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#01 I: End test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
