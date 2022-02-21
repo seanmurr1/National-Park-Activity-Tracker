@@ -1,0 +1,5 @@
+lib: [
+  "_build/install/default/lib/npat-server/META"
+  "_build/install/default/lib/npat-server/dune-package"
+  "_build/install/default/lib/npat-server/opam"
+]

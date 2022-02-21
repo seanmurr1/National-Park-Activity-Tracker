@@ -1,0 +1,484 @@
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Runner: processes
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Chooser: simple
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration suite_name = "API Tests"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration cache_filename = "/Users/sean-murray/Desktop/NPAT/npat-server/_build/default/tests/oUnit-$(suite_name).cache"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration run_gc_full_major = "true"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration display = "true"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration results_style_1_X = "false"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration testdata_dir = "none"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration health_check_interval = "1."
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration verbose = "false"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration chooser = "simple"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration output_html_dir = "none"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration processes_kill_period = "5."
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration runner = "processes"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration shards = "2"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration processes_grace_period = "5."
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration log_encoding = "utf-8"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration output_junit_file = "none"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration ci = "false"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Configuration output_file = "/Users/sean-murray/Desktop/NPAT/npat-server/_build/default/tests/oUnit-$(suite_name)-$(shard_id).log"
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Using 2 workers maximum.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Starting worker number Seans-MacBook-Pro.local#01.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Worker Seans-MacBook-Pro.local#01 started.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Starting worker number Seans-MacBook-Pro.local#02.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: Worker Seans-MacBook-Pro.local#02 started.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Start test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:3:Parks: Get Park Info, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:3:Parks: Get Park Info.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:3:Parks: Get Park Info, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:3:Parks: Get Park Info is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:3:Parks: Get Park Info, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:3:Parks: Get Park Info.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:3:Parks: Get Park Info, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:6:Social: Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:6:Social: Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:6:Social: Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:6:Social: Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: End test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:6:Social: Tweet Counts, API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:7:Social: Search Tweets, API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Start test API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:7:Social: Search Tweets, API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:7:Social: Search Tweets, API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:6:Social: Tweet Counts is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:7:Social: Search Tweets, API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:7:Social: Search Tweets, API Tests:0:API Library Function Tests:6:Social: Tweet Counts.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:8:Dbmanager: Create, API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:8:Dbmanager: Create.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:8:Dbmanager: Create, API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:8:Dbmanager: Create, API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Test API Tests:0:API Library Function Tests:7:Social: Search Tweets is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:8:Dbmanager: Create, API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: End test API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:8:Dbmanager: Create, API Tests:0:API Library Function Tests:7:Social: Search Tweets.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB, API Tests:0:API Library Function Tests:8:Dbmanager: Create.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#01 I: Start test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB, API Tests:0:API Library Function Tests:8:Dbmanager: Create.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:8:Dbmanager: Create is successful.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB, API Tests:0:API Library Function Tests:8:Dbmanager: Create.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:8:Dbmanager: Create.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB, API Tests:0:API Library Function Tests:8:Dbmanager: Create.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:10:Dbmanager: Get Park.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:48+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:10:Dbmanager: Get Park is successful.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:10:Dbmanager: Get Park.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:10:Dbmanager: Get Park, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 2 tests running : API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#02 I: Start test API Tests:0:API Library Function Tests:11:Activity: Activity Response.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 2 tests running : API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#02 I: Test API Tests:0:API Library Function Tests:11:Activity: Activity Response is successful.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 2 tests running : API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#02 I: End test API Tests:0:API Library Function Tests:11:Activity: Activity Response.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 2 tests running : API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 2 tests running: API Tests:0:API Library Function Tests:11:Activity: Activity Response, API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:49+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:50+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:51+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:52+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:53+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:54+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:55+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:56+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:57+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:58+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:49:59+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:00+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:01+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:02+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:03+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:04+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:05+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#01 I: Test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#01 I: End test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Still 1 tests running : API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: 1 tests running: API Tests:0:API Library Function Tests:9:Dbmanager: Update DB.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: 0 tests running: .
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Worker Seans-MacBook-Pro.local#02 has ended.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Worker Seans-MacBook-Pro.local#01 has ended.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Used 2 worker during test execution.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Run 9 tests with shard Seans-MacBook-Pro.local#02.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Run 3 tests with shard Seans-MacBook-Pro.local#01.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Check health of shard Seans-MacBook-Pro.local#02, 170 times.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Check health of shard Seans-MacBook-Pro.local#01, 18 times.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: ==============
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Summary:
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:9:Dbmanager: Update DB is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:11:Activity: Activity Response is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:10:Dbmanager: Get Park is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:8:Dbmanager: Create is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:7:Social: Search Tweets is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:6:Social: Tweet Counts is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:0:Uribuilder: Twitter Search Uri is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:5:Tweetparser: Parse Tweet Counts is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:4:Tweetparser: Parse Tweet Search is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:3:Parks: Get Park Info is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:2:Parks: Is Allowed Park is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Test API Tests:0:API Library Function Tests:1:Uribuilder: Twitter Counts Uri is successful.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Ran: 12 tests in: 17.98 seconds.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Cases: 12.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Tried: 12.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Errors: 0.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Failures: 0.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Skip: 0.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Todo: 0.
+2021-12-14T21:50:06+00:00 Seans-MacBook-Pro.local#00 I: Timeout: 0.

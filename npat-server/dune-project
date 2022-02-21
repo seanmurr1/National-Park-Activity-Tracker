@@ -1,0 +1,23 @@
+(lang dune 2.9)
+
+ (generate_opam_files true)
+  (authors "Sean Murray")
+  (maintainers "smurra42@jhu.edu")
+  (package
+   (name npat-server) 
+   (synopsis "An OCaml web server to track activity in National Parks")
+   (description "Queries twitter data to track activity in National Parks. Maintains internal database")
+   (depends
+    (ounit2 (>= 2.2.4)) 
+    (core (>= 0.14.1))
+    (yojson (>= 1.7.0))
+    (cohttp-lwt-unix (>= 4.0.0))
+    (bisect_ppx (>= 2.6.0))
+    (caqti (>= 1.6.0))
+    (caqti-lwt (>= 1.6.0))
+    (caqti-driver-postgresql (>= 1.6.0))
+    (lwt (>= 5.4.2))
+    (lwt_ppx (>= 2.0.2))
+    (ppx_jane (>= 0.14.0))
+    (ppx_deriving_yojson (>= 3.6.1))
+    (opium (>= 0.20.0))))
